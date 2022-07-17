@@ -1,5 +1,5 @@
 from main import fight 
-from main import turn_180
+from Motor import turn_180
 
 turn_180()
     
